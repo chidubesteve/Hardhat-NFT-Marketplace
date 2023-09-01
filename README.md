@@ -23,7 +23,7 @@ Hardhat smartcontracts and scripts for the PhoenixCollectiblies (NFT Marketplace
     - `node --version` and get an ouput like: `vx.x.x`
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) instead of `npm`
   - You'll know you've installed yarn right if you can run:
-    - `yarn --version` and get an output like: `x.x.x`
+    - `node --version` and get an output like: `x.x.x`
     - You might need to install it with `npm`
 
 ## Quickstart
@@ -33,9 +33,6 @@ git clone https://github.com/chidubesteve/Hardhat-NFT-Marketplace
 cd Hardhat-NFT-Marketplace
 npm i
 ```
-
-
-
 
 
 # Usage
@@ -78,3 +75,8 @@ npx hardhat deploy --network sepolia
 # Thank you!
 
 If you appreciated this, feel free to follow me 
+
+[Twitter](https://twitter.com/chidubesteve) 
+[LinkedIn](https://www.linkedin.com/in/chidube-anike-7a7721251/)
+
+Made with ❤ from  me!
